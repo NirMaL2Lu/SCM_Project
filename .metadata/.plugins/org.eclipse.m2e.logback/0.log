@@ -1,0 +1,18 @@
+2023-06-12 17:50:13,183 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-12 17:51:44,411 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-13 19:42:29,115 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-13 19:47:15,619 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.smart:SmartContactManager:0.0.1-SNAPSHOT @ R:\boot\SmartContactManager\pom.xml.
+2023-10-13 19:47:16,855 [Worker-15: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2023-10-13 19:47:19,002 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SmartContactManager/src/main/java
+2023-10-13 19:47:19,003 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SmartContactManager/src/main/resources
+2023-10-13 19:47:19,005 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SmartContactManager/src/main/resources
+2023-10-13 19:47:19,008 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SmartContactManager/src/test/java
+2023-10-13 19:47:19,009 [Worker-15: Importing Maven projects] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-1.8', falling back to workspace default
+2023-10-13 19:47:19,865 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-10-13 19:47:24,139 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 19:47:24,139 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-10-13 19:47:24,150 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-13 19:47:24,223 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2023-10-13 19:47:24,897 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-13 19:47:24,897 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-10-13 19:47:24,897 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory R:\boot\SmartContactManager\src\test\resources
