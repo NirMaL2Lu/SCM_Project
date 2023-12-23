@@ -1,0 +1,11 @@
+N:\SmartContactManager\src\main\java\com\smart\controllers\HomeController.java
+N:\SmartContactManager\src\main\java\com\smart\dao\ContactRepository.java
+N:\SmartContactManager\src\main\java\com\smart\controllers\UserController.java
+N:\SmartContactManager\src\main\java\com\smart\entites\Contact.java
+N:\SmartContactManager\src\main\java\com\smart\entites\User.java
+N:\SmartContactManager\src\main\java\com\smart\configuration\UserDetailsServiceImpal.java
+N:\SmartContactManager\src\main\java\com\smart\dao\UserRepository.java
+N:\SmartContactManager\src\main\java\com\smart\helper\Message.java
+N:\SmartContactManager\src\main\java\com\smart\configuration\CustomUserDetails.java
+N:\SmartContactManager\src\main\java\com\smart\configuration\MyConfig.java
+N:\SmartContactManager\src\main\java\com\smart\SmartContactManagerApplication.java

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.practice.SmartContactManagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.581 s <<< FAILURE! - in com.practice.SmartContactManagerApplicationTests
+com.practice.SmartContactManagerApplicationTests  Time elapsed: 0.577 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
